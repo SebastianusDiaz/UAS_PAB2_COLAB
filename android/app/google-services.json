@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "425484715672",
+    "firebase_url": "https://uas-pab2-8d97f-default-rtdb.firebaseio.com",
+    "project_id": "uas-pab2-8d97f",
+    "storage_bucket": "uas-pab2-8d97f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425484715672:android:49d8c08ea6915552edb2ed",
+        "android_client_info": {
+          "package_name": "com.example.project_uas_pab2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlx4U4uSzyzpNJW-iWupYxGOZWW0kzaak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
