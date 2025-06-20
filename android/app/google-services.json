@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "303635703262",
+    "firebase_url": "https://project-uas-4ba24-default-rtdb.firebaseio.com",
+    "project_id": "project-uas-4ba24",
+    "storage_bucket": "project-uas-4ba24.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303635703262:android:841f84b538d1cc34c6294f",
+        "android_client_info": {
+          "package_name": "com.example.projectuas1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJTyy5a7T3Ql4bB7TSo907SbFB7AlMoFg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
